@@ -21,16 +21,13 @@
 ## 3. Cài đặt các module cần thiết
 - Mở commandline và lần lượt dán các lệnh sau:
     ```bash
+    yarn add react-scripts
+    ```
+    ```bash
     yarn add react-datepicker
     ```
     ```bash
     yarn add date-fns
-    ```
-    ```bash
-    yarn add date-fns/locale/pt-BR
-    ```
-    ```bash
-    yarn add react-datepicker/dist/react-datepicker.css
     ```
     ```bash
     yarn add react-input-mask
