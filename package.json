@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "pdfmake": "^0.2.16",
+    "react-datepicker": "^7.5.0",
+    "react-input-mask": "^2.0.4",
+    "yup": "^1.6.0"
+  }
+}
